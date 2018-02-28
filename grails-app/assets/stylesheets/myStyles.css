@@ -1,0 +1,7 @@
+/* Change nav bar background color */
+.navbar {
+    background-color: blue;
+}
+.navbar-default .navbar-brand{
+    color: white;
+}
